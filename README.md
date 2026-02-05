@@ -45,18 +45,6 @@ I am a passionate Computer Engineering student dedicated to building scalable ap
 </p>
 
 ---
-
-### 📊 My GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=6610685239&show_icons=true&theme=tokyonight&count_private=true" alt="Parunchai's GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=6610685239&layout=compact&theme=tokyonight&hide=html,css" alt="Most Used Languages" />
-</p>
-
----
 ### 🏆 Featured Projects
 
 #### 🔴 **TUTALK**
