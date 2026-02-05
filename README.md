@@ -1,10 +1,10 @@
 <div align="center">
 
   # Parunchai Timklip
-  ### 💻 Computer Engineering | 🚀 Web Developer
+  ### 💻 Computer Engineering Student | 🚀 Aspiring Fullstack Developer
   
   <p align="center">
-    <a href="mailto:pluem2xx4@gmail.com">
+    <a href="mailto:parunchai.timklip@gmail.com">
       <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
     </a>
     <a href="https://www.linkedin.com/in/parunchai-timklip-50464a355/">
@@ -16,48 +16,60 @@
 ---
 
 ### 🧐 About Me
-ผมเป็นนักศึกษาที่หลงใหลในการเขียนโค้ด ชอบเรียนรู้เทคโนโลยีใหม่ๆ
-- 🔭 **Current Project:** กำลังพัฒนา Web Application, Mobile Application และศึกษาเรื่อง Machine Learning
-- 🌱 **Learning:** Data Science, Advanced Network Concepts
-- 🎓 **Education:** Thammasat University
+I am a passionate Computer Engineering student dedicated to building scalable applications and exploring emerging technologies.
+- 🔭 **Current Focus:** Developing Fullstack Web & Mobile applications and diving into Machine Learning.
+- 🌱 **Learning:** Data Science, eBPF, and Advanced Network Infrastructure.
+- 🎓 **Education:** B.Eng. in Computer Engineering, Thammasat University.
 
 ---
 
-### 🛠️ Tech Stack & Tools
-<div align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <br/>
-  
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <br/>
-  
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-</div>
+### 🛠 Tech Stack & Tools
+
+<p align="left">
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
+  <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C" />
+  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+</p>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
+  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" />
+  <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
+</p>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+</p>
 
 ---
 
 ### 🏆 Featured Projects
 
 #### 🔴 **TUTALK**
-> *Web Application for Thammasat University Students*
-เว็บแอปพลิเคชัน Community สำหรับนักศึกษามหาวิทยาลัยธรรมศาสตร์ เพื่อแลกเปลี่ยนข้อมูลข่าวสารและพูดคุยกัน
-- **Role:** Full Stack Developer
+> *Community Platform for Thammasat University Students*
+A full-stack social platform designed for students to exchange information and connect within the university ecosystem.
+- **Role:** Full Stack Developer (Django, JavaScript)
 
 #### 🔴 **BirdCLEF+ 2025**
-> *Species identification from audio, focused on birds, amphibians, mammals and insects from the Middle Magdalena Valley of Colombia.*
-พัฒนา AI สำหรับตรวจจับเสียงนก โดยสามารถแยกสายพันธุ์ รวมถึงแยกเสียงแปลกปลอมได้
-- **Role:** AI Developer
+> *Species Identification from Audio Data*
+Developed an AI-driven audio classification pipeline to identify bird species and detect environmental sounds in complex audio environments.
+- **Role:** AI/ML Developer (PyTorch, CNN)
 
 #### 🔴 **JaiBaan**
-> *Mobile Application for Smart Home Management System*
-แอปพลิเคชันสำหรับหมูบ้านจัดสรรหรือคอนโด เผื่อยกระดับความเป็นอยู่ให้ดีขึ้น
-- **Role:** Backend Developer
----
+> *Smart Residential Management System*
+A mobile application concept designed to transform community living through digital visitor management and facility booking.
+- **Role:** Backend Developer (API Design & Management)
+
+#### 🔴 **eBPF Firewall**
+> *High-Performance Kernel-Level Packet Filtering*
+Engineered a low-latency firewall utilizing eBPF technology for efficient packet processing and network security within the Linux kernel.
+- **Role:** System & Network Developer (C, eBPF)
 
 ---
+
 <div align="center">
   <i>Let's connect and build something amazing together!</i>
 </div>
